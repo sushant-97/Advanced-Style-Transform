@@ -10,10 +10,10 @@ dataset and final fine-tuned model can be found on [gdrive](https://drive.google
 - Pillow
 - Skimage
 - tqdm
-(optional)
+
 
 - GPU environment for training
-
+(optional)
 
 ## Overview
 Neural Style Transfer (NST) is a captivating image stylization method rooted in Deep Learning, enabling the creation of artistic pieces through machine learning.
