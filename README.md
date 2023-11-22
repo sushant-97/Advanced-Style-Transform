@@ -7,7 +7,11 @@ Neural Style Transfer (NST) is a captivating image stylization method rooted in 
 - It goes beyond simple image overlaying, incorporating nuances such as texture, brush strokes, geometric shapes, and color distribution.
 
 ## Visual Comparison
-![Image Overlay vs NST](path/to/figure-2.png)
+![Image Overlay vs NST](images/sample_1.gfg)
+- (a) Image Overlay
+- (b) NST Result
+
+![Image Overlay vs NST](images/sample_2.gfg)
 - (a) Image Overlay
 - (b) NST Result
 
