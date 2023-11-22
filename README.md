@@ -10,9 +10,6 @@ dataset and final fine-tuned model can be found on [gdrive](https://drive.google
 - Pillow
 - Skimage
 - tqdm
-
-Anaconda environment recommended here!
-
 (optional)
 
 - GPU environment for training
