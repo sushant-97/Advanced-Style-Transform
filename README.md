@@ -2,6 +2,17 @@
 
 dataset and final fine-tuned model can be found on [gdrive](https://drive.google.com/drive/folders/1786Mci_dJST0vgzm0Wd3O0WWThmBIx-p?usp=sharing)
 
+## Requirements
+Python 3.7
+PyTorch 1.0+
+TorchVision
+Pillow
+Skimage
+tqdm
+Anaconda environment is recommended here!
+(optional)
+GPU environment for training
+
 Neural Style Transfer (NST) is a captivating image stylization method rooted in Deep Learning, enabling the creation of artistic pieces through machine learning.
 
 ## Overview
