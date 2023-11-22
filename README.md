@@ -1,5 +1,6 @@
 # Style-Transform
 Dashtoon Placement Assignment Submission
+
 Neural Style Transfer (NST) stands out as a captivating image stylization method rooted in Deep Learning, enabling the creation of artistic pieces through machine learning. The essence of NST lies in transforming a content image to adopt the stylistic characteristics of a chosen style image. When we delve into the notion of "style" in an image, we are referring to its texture, brush strokes, geometric shapes, and the spatial distribution of colors.
 
 Contrary to a straightforward image overlay process, NST introduces a nuanced approach to image stylization. It distinguishes itself from mere image overlaying, which involves placing one image atop another without any stylistic transformation. To illustrate this disparity, consider Figure 2: (a) depicts the outcome of image overlaying, while (b) showcases the result of image stylization. This visual comparison aims to elucidate the contrasting nature of these two processes.
